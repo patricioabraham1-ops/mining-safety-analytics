@@ -15,6 +15,10 @@ Se debe aplicar un analisis de datos en para responder preguntas criticas en la 
 ## 🗂️ Estructura del repositorio
 ---
 ## 📦 Fuente de datos
+| Dataset | Fuente | Registros | Actualización |
+|---|---|---|---|
+| Accident & Injuries | [MSHA Open Data](https://www.msha.gov/msha-datasets) | +300,000 | Semanal |
+| Mines Information | [MSHA Mines Dataset](https://catalog.data.gov/dataset/msha-mines-dataset) | +86,000 minas | Semanal |
 ---
 ## 🔄 Flujo de trabajo
 ---
@@ -32,6 +36,16 @@ Se debe aplicar un analisis de datos en para responder preguntas criticas en la 
 > Días perdidos promedio solo se utilizan los eventos que ocurren lesion, es decir, se excluyen las fatalidades y sin eventos de lesion y dias perdidos, ya que afecta al calculo del promedio. 
 ---
 ## 🖼️ Vista previa del dashboard
+
+### Página 1 — Accidentabilidad.
+
+### Página 2 — Fatalidad.
+
+### Página 3 — Causa.
+
+### Página 4 — Comparacion.
+
+### Página 5 — Modelo de Datos.
 ---
 ## 📄 Licencia
 Los datos utilizados son de dominio público, publicados por el U.S. Department of Labor bajo la iniciativa Open Government Data.
