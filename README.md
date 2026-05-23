@@ -18,7 +18,10 @@ Se debe aplicar un analisis de datos en para responder preguntas criticas en la 
 | Dataset | Fuente | Registros | Actualización |
 |---|---|---|---|
 | Accident & Injuries | [MSHA Open Data](https://www.msha.gov/msha-datasets) | +300,000 | Semanal |
-| Mines Information | [MSHA Mines Dataset](https://catalog.data.gov/dataset/msha-mines-dataset) | +86,000 minas | Semanal |
+| Mines Information | [MSHA Mines Dataset](https://catalog.data.gov/dataset/msha-mines-dataset) | +96,000 minas | Semanal |
+|AIR & FIR|[Number of employee hours reported](https://wwwn.cdc.gov/NIOSH-Mining/MMWC/Employee/Hours)|+25 registro|anual|
+
+>Los datos son de **acceso público y gratuito**.
 ---
 ## 🔄 Flujo de trabajo
 ---
