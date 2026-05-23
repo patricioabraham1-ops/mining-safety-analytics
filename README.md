@@ -21,6 +21,15 @@ Se debe aplicar un analisis de datos en para responder preguntas criticas en la 
 ## 📊 Hallazgos principales
 ---
 ## 📐 KPIs calculados
+
+| KPI | Definición | Fórmula |
+|---|---|---|
+| **AIR** | All injures Rate(Tasa de lesiones totales) | (Accidentes registrables × 200,000) / Horas trabajadas |
+| **FIR** | fatality Injury Rate (Tasa de Fatalidades) | (  Fatalidades registradas  × 200,000) / Horas trabajadas |
+| **Días perdidos promedio** | Severidad promedio por evento | Total días perdidos / Total accidentes con días perdidos |
+> El factor 200,000 corresponde a las horas trabajadas por 100 trabajadores en un año de 50 semanas.
+
+> Días perdidos promedio solo se utilizan los eventos que ocurren lesion, es decir, se excluyen las fatalidades y sin eventos de lesion y dias perdidos, ya que afecta al calculo del promedio. 
 ---
 ## 🖼️ Vista previa del dashboard
 ---
