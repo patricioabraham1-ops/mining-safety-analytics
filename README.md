@@ -33,7 +33,10 @@ Se debe aplicar un analisis de datos en para responder preguntas criticas en la 
 |Power Query|Limpieza,EDA, transformación de datos-Eliminacion de columnas Innesesarias-Corrección de Errores-ETC|
 |Power Pivot|Creación de tabla calendario, Año Fiscal y Realizacion del modelo de datos Tipo estrella|
 |Excel| Creación de Dashboard Iteractivo|
+
+---
 ## 📊 Hallazgos principales
+
 ---
 ## 📐 KPIs calculados
 
