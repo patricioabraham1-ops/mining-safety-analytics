@@ -12,8 +12,43 @@ Se debe aplicar un analisis de datos en para responder preguntas criticas en la 
 ---
 
 ## 🎯 Preguntas de negocio
+
+1. ¿Cuál ha sido la efectividad a largo plazo de las políticas de seguridad minera de la MSHA en los últimos 25 años en términos de volumen e índices de frecuencia ($AIR$ y $FIR$)?.
+2. ¿Cuáles son los estados críticos (puntos calientes) donde se concentran la mayor cantidad de accidentes y fatalidades en EE. UU.?
+3. ¿Qué tipo de minería y qué métodos de extracción representan el mayor riesgo operacional?
+4. ¿Cuáles son los tipos de accidentes más comunes, partes del cuerpo afectadas y puestos de trabajo en la primera línea de riesgo?
+5. ¿Cómo influye la experiencia del trabajador en la probabilidad de sufrir un accidente y fatalidad?
+ 
+
 ---
 ## 🗂️ Estructura del repositorio
+
+```
+mining-safety-analytics/
+│
+├── README.md
+│
+├── data/
+│   ├──         #
+│   ├──         #
+│   └──         # 
+│
+├── Iconos/
+│   ├── 
+│   ├── 
+│   ├──      
+│   ├── 
+│   └── 
+│
+└── images/
+│    ├── dashboard_Accidentabilidad.png
+│    ├── dashboard_causas.png
+│    ├── dashboard_comparativo.png
+│    └── Dashboard_Fatalidades.png
+│I
+│
+└── Presentacion Mining injuries.xlsx
+```
 ---
 ## 📦 Fuente de datos
 | Dataset | Fuente | Registros | Actualización |
@@ -36,6 +71,17 @@ Se debe aplicar un analisis de datos en para responder preguntas criticas en la 
 
 ---
 ## 📊 Hallazgos principales
+
+**1. ¿Cuál ha sido la efectividad a largo plazo de las políticas de seguridad minera de la MSHA en los últimos 25 años en términos de volumen e índices de frecuencia ($AIR$ y $FIR$)?.**
+**2. ¿Cuáles son los estados críticos (puntos calientes) donde se concentran la mayor cantidad de accidentes y fatalidades en EE. UU.?**
+**3. ¿Qué tipo de minería y qué métodos de extracción representan el mayor riesgo operacional?**
+**4. ¿Cuáles son los tipos de accidentes más comunes, partes del cuerpo afectadas y puestos de trabajo en la primera línea de riesgo?**
+**5. ¿Cómo influye la experiencia del trabajador en la probabilidad de sufrir un accidente y fatalidad ?**
+
+--
+
+## 📢 Recomendaciones
+
 
 ---
 ## 📐 KPIs calculados
