@@ -7,7 +7,7 @@
 ---
 ## 📌 Descripción del proyecto
 Este proyecto analiza alrededor de **300,000 registros reales** de accidentes, lesiones  y fatalidades en la industria minera de EE.UU., utilizando datos oficiales del **Mine Safety and Health Administration (MSHA)**.
-Se debe aplicar un analisis de datos en para responder preguntas criticas en la seguridad minera ¿qué tipo de accidentes ocurren con mas frecuencia ?, ¿en qué operaciones ocurren más fatalidades?,¿Cual es la tendencia del FIR.AIR desde 2000 hasta el 2025?
+Se debe aplicar un analisis de datos en para responder preguntas criticas en la seguridad minera ¿qué tipo de accidentes ocurren con mas frecuencia ?, ¿en qué operaciones ocurren más fatalidades?,¿Cual es la tendencia del FIR.AIR desde 2000 hasta el 2025?.
 
 ---
 
@@ -30,8 +30,8 @@ Se debe aplicar un analisis de datos en para responder preguntas criticas en la 
 
 | Herramienta | Uso en el proyecto |
 |---|---|
-|Power Query|Limpieza,EDA, transfrormacion de datos-Eliminacion de columnas Innesesarias-Corrección de Errores-ETC|
-|Power Pivot|Creación de tabla calendario y Realizacion del modelo de datos Tipo estrella|
+|Power Query|Limpieza,EDA, transformación de datos-Eliminacion de columnas Innesesarias-Corrección de Errores-ETC|
+|Power Pivot|Creación de tabla calendario, Año Fiscal y Realizacion del modelo de datos Tipo estrella|
 |Excel| Creación de Dashboard Iteractivo|
 ## 📊 Hallazgos principales
 ---
@@ -45,7 +45,9 @@ Se debe aplicar un analisis de datos en para responder preguntas criticas en la 
 
 > El factor 200,000 corresponde a las horas trabajadas por 100 trabajadores en un año de 50 semanas.
 
-> Días perdidos promedio solo se utilizan los eventos que ocurren lesion, es decir, se excluyen las fatalidades y sin eventos de lesion y dias perdidos, ya que afecta al calculo del promedio. 
+> Días perdidos promedio solo se utilizan los eventos que ocurren lesion, es decir, se excluyen las fatalidades y sin eventos de lesion y dias perdidos, ya que afecta al calculo del promedio.
+
+>El año Fiscal lo consideran desde desde octubre del año anterior hasta el septiembre del mismo año.  
 ---
 ## 🖼️ Vista previa del dashboard
 
