@@ -1,6 +1,6 @@
 # Mining Safety Analytics 
 
-### Análisis de Accidentabilidad en la Industria Minera de U.S.A. (2000–2024)
+### Análisis de Accidentabilidad en la Industria Minera de U.S.A. (2000–2025)
 ---
 ## 👤 Autor
 
