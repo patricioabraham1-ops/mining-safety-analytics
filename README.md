@@ -60,6 +60,37 @@ mining-safety-analytics/
 >Los datos son de **acceso público y gratuito**.
 ---
 ## 🔄 Flujo de trabajo
+```
+MSHA Open Data (.txt)
+        │
+        ▼
+   Excel
+   └── Importación de Tabla Txt y Xlsm.
+   ├── Consultas analíticas
+   └── Exportación de vistas limpias
+        │
+        ▼
+   Power Query
+   ├── EDA: distribuciones, nulos.
+   ├── Cálculo de Años de Experinecia en Rangos.
+   └── limpieza de Datos y transformaciones.
+        │
+        ▼
+   Power Pivot
+   ├── Transformación final, si es necesarios.
+   ├── Modelo estrella (Tablas de Hecho + Tabla de Dimensiones).
+   ├── Creacion de Tabla Calendario y Año Fiscal.
+   └─  Medidas DAX
+        │
+        ▼
+   Excel
+   └── Creación de DashBoard.
+   └── Calculos para la interactividad del DashBoard.
+        │
+        ▼
+   GitHub.
+```
+
 ---
 ## 🛠️ Herramientas utilizadas
 
@@ -78,7 +109,7 @@ mining-safety-analytics/
 **4. ¿Cuáles son los tipos de accidentes más comunes, partes del cuerpo afectadas y puestos de trabajo en la primera línea de riesgo?**
 **5. ¿Cómo influye la experiencia del trabajador en la probabilidad de sufrir un accidente y fatalidad ?**
 
---
+---
 
 ## 📢 Recomendaciones
 
