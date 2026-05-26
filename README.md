@@ -36,11 +36,12 @@ mining-safety-analytics/
 │   └──         # 
 │
 ├── Iconos/
-│   ├── 
-│   ├── 
-│   ├──      
-│   ├── 
-│   └── 
+│   ├── Accidentes.png
+│   ├── Carbon.png
+│   ├── Causas.png
+│   ├── Comparacion.png      
+│   ├── Fatalidad.png
+│   └── MSHA.png
 │
 └── images/
 │    ├── dashboard_Accidentes.png
