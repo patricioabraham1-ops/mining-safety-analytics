@@ -109,6 +109,9 @@ MSHA Open Data (.txt)
 
 **1. ¿Cuál ha sido la efectividad a largo plazo de las políticas de seguridad minera de la MSHA en los últimos 25 años en términos de volumen e índices de frecuencia ($AIR$ y $FIR$)?.**
 
+> La efectividad de las políticas de la MSHA ha sido altamente exitosa y sostenible en el tiempo. Los datos demuestran un cambio estructural en la industria:
+  El volumen de accidentes y fatalidades disminullo 
+
 **2. ¿Cuáles son los estados críticos (puntos calientes) donde se concentran la mayor cantidad de accidentes y fatalidades en EE. UU.?**
 
 **3. ¿Qué tipo de minería y qué métodos de extracción representan el mayor riesgo operacional?**
