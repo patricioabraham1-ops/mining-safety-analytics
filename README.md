@@ -138,14 +138,14 @@ MSHA Open Data (.txt)
 ## 🖼️ Vista previa del dashboard
 
 ### Página 1 — Accidentabilidad.
+![Dashboard Accidentes](./Imagenes/DashBoard_Accidentes.png)
 
-![Dashboard Resumen](./Images/DashBoard_Accidentes.png)
 ### Página 2 — Fatalidad.
-
+![Dashboard Fatalidades](./Imagenes/DashBoard_Fatalidades.png)
 ### Página 3 — Causa.
-
+![Dashboard Causas](./Imagenes/DashBoard_Causas.png)
 ### Página 4 — Tipo de Mina.
-
+![Dashboard Tipo de minas](./Imagenes/DashBoard_Tipo_Minas.png)
 ### Página 5 — Modelo de Datos.
 ---
 ## 📄 Licencia
