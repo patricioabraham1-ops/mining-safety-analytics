@@ -43,9 +43,10 @@ mining-safety-analytics/
 │   └── 
 │
 └── images/
-│    ├── dashboard_Accidentabilidad.png
-│    ├── dashboard_causas.png
-│    ├── dashboard_comparativo.png
+│    ├── dashboard_Accidentes.png
+│    ├── dashboard_Tipo_Minas.png
+│    ├── dashboard_Causas.png
+│    ├── dashboard_Modelo de Datos.png
 │    └── Dashboard_Fatalidades.png
 │I
 │
