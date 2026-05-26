@@ -139,11 +139,12 @@ MSHA Open Data (.txt)
 
 ### Página 1 — Accidentabilidad.
 
+![Dashboard Resumen](./Images/DashBoard_Accidentes.png)
 ### Página 2 — Fatalidad.
 
 ### Página 3 — Causa.
 
-### Página 4 — Comparacion.
+### Página 4 — Tipo de Mina.
 
 ### Página 5 — Modelo de Datos.
 ---
