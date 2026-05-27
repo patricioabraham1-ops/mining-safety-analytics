@@ -124,17 +124,19 @@ MSHA Open Data (.txt)
 
 > **Mortalidad y Accidentabilidad:**El estado de West Virginia es el punto más crítico de todo el país que tiene una 202 muertes y luego sigue el estado de Kentucky (143 muertes), Ademas, ambos estados son los que tiene las mayor densidad de accidentes totales, con 28,819 y 22,180 respectivamente.
 
-
->**Accidentabilidad:** 
-
- 
-
 **3. ¿Qué tipo de minería y qué métodos de extracción representan el mayor riesgo operacional?**
+> Al cruzar las variables de Actividad Minera y Tipo de Mina, los datos demuestra lo siguiente:
+
+> La minería de Carbón Subterráneo (Coal - Underground) es la operación más peligrosa de la industria, registrando 56,443 accidentes y 333 muertes en estos 26 años. El mapas de calor histórica confirma que el carbón domina esta metrica.
+
+>  
 
 **4. ¿Cuáles son los tipos de accidentes más comunes, partes del cuerpo afectadas y puestos de trabajo en la primera línea de riesgo?**
 
+>
 **5. ¿Cómo influye la experiencia del trabajador en la probabilidad de sufrir un accidente y fatalidad ?**
 
+>
 ---
 
 ## 📢 Recomendaciones
