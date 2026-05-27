@@ -120,6 +120,15 @@ MSHA Open Data (.txt)
 
 **2. ¿Cuáles son los estados críticos (puntos calientes) donde se concentran la mayor cantidad de accidentes y fatalidades en EE. UU.?**
 
+> El análisis geográfico revela una que hay una conexion entre las fatalidades y los accidentes en los estados.
+
+> **Mortalidad y Accidentabilidad:**El estado de West Virginia es el punto más crítico de todo el país que tiene una 202 muertes y luego sigue el estado de Kentucky (143 muertes), Ademas, ambos estados son los que tiene las mayor densidad de accidentes totales, con 28,819 y 22,180 respectivamente.
+
+
+>**Accidentabilidad:** 
+
+ 
+
 **3. ¿Qué tipo de minería y qué métodos de extracción representan el mayor riesgo operacional?**
 
 **4. ¿Cuáles son los tipos de accidentes más comunes, partes del cuerpo afectadas y puestos de trabajo en la primera línea de riesgo?**
