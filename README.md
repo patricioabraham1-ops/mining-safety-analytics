@@ -129,11 +129,22 @@ MSHA Open Data (.txt)
 
 > La minería de Carbón Subterráneo (Coal - Underground) es la operación más peligrosa de la industria, registrando 56,443 accidentes y 333 muertes en estos 26 años. El mapas de calor histórica confirma que el carbón domina esta metrica.
 
->  
+> El riesgo en operaciones de Superficie concetra la mayor accidentabilidad con 109,397 con los sectores que dominos son primer lugar canteras (Stone)y carbon (Coal). Mientras la mortalidad tambien concentra son la cantera (Stone) con 190 y la actividad de Arena y Grava (Sand And Gravel).
 
-**4. ¿Cuáles son los tipos de accidentes más comunes, partes del cuerpo afectadas y puestos de trabajo en la primera línea de riesgo?**
+> El riesgo en operaciones subterranea concetra la mayor tasa de accidentabilidad con  con los sectores que dominos son primer lugar canteras (Stone)y carbon (Coal).
 
->
+> El sector más seguro son instalaciones de procesamiento (Facility) y la actividad de mineria no metalica(Nommetal) presentan los índices de accidentabilidad más bajos los cuales son 42,372 y 18,079,respectivamente.La mortalidad el sector mas seguro son las instalaciones de procesamiento (Facility) con 152 muerets y la otra es mineria no metalica(Nommetal) con 66 muertes.
+
+**4. ¿Cuáles son los tipos de accidentes más comunes, partes del cuerpo afectadas y puestos de trabajo con mayor riesgo?**
+
+> Los patrones son los siguientes:
+
+> La accidentabilidad segun por los tipos de accidentes son la Manipulación de Materiales (Handling Of Materials) es la causa reina con 76,840 casos, seguida por los resbalones y caídas (Slip Or Fall Of Person) con 45,349. Respecto con la mortalidad es Transporte Motorizado (Powered Haulage) con 356 casos, seguida de Maquinaria (Machinery) con 245 casos.
+
+> Las partes del cuerpo más afectadas son los dedos/pulgar (Finger/Thumb) con 39,122 casos y la espalda/zona lumbar con 30,825 casos.Respecto con la mortalidad son los multiples partes (Multiple Parts) y 
+
+> El Puesto de trabajo más vulnerable es el personal de mantenimiento y mecánica (Maintenance Man, Mechanic) con 41,404 accidentes y la mortalidad tambien concentra este indice con 129 Muertes.
+
 **5. ¿Cómo influye la experiencia del trabajador en la probabilidad de sufrir un accidente y fatalidad ?**
 
 >
