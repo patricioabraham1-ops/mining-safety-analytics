@@ -15,7 +15,9 @@ Se debe aplicar un analisis de datos en para responder preguntas criticas en la 
 
 ----
 ## 📝 Observación
-> Se debe Descargar los archivos de Mines.txt y Accidentes.txt en la base de datos de MSHA. 
+> Se debe Descargar los archivos de Mines.txt y Accidentes.txt en la base de datos de MSHA.
+
+> Solo se debe ver el procedimiento, solo se debe Desproteger las Hojar y mostras las demas paginas. 
 ---
 
 ## 🎯 Preguntas de negocio
