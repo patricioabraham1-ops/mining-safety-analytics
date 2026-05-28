@@ -56,7 +56,6 @@ mining-safety-analytics/
 │    ├── dashboard_Causas.png
 │    ├── dashboard_Modelo de Datos.png
 │    └── Dashboard_Fatalidades.png
-│I
 │
 └── Presentacion Mining injuries.xlsx
 ```
