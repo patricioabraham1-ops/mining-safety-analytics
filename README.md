@@ -7,9 +7,12 @@
 **Patricio Valenzuela**
  >Tecnico en Operaciones | Mineras Ingeniero Civil en Minas 
 ---
+
 ## 📌 Descripción del proyecto
+
 Este proyecto analiza alrededor de **300,000 registros reales** de accidentes, lesiones  y fatalidades en la industria minera de EE.UU., utilizando datos oficiales del **Mine Safety and Health Administration (MSHA)**.
 Se debe aplicar un analisis de datos en para responder preguntas criticas en la seguridad minera ¿qué tipo de accidentes ocurren con mas frecuencia ?, ¿en qué operaciones ocurren más fatalidades?,¿Cual es la tendencia del FIR.AIR desde 2000 hasta el 2025?.
+
 ----
 ## 📝 Observación
 > Se debe Descargar los archivos de Mines.txt y Accidentes.txt en la base de datos de MSHA. 
