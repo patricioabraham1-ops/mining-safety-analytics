@@ -5,7 +5,8 @@
 ## 👤 Autor
 
 **Patricio Valenzuela**
- >Tecnico en Operaciones | Mineras Ingeniero Civil en Minas 
+ >Tecnico en Operaciones | Mineras Ingeniero Civil en Minas
+ >[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patricio-valenzuela-villablanca-82b951165/)
 ---
 
 ## 📌 Descripción del proyecto
