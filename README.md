@@ -141,18 +141,23 @@ MSHA Open Data (.txt)
 
 > La accidentabilidad segun por los tipos de accidentes son la Manipulación de Materiales (Handling Of Materials) es la causa reina con 76,840 casos, seguida por los resbalones y caídas (Slip Or Fall Of Person) con 45,349. Respecto con la mortalidad es Transporte Motorizado (Powered Haulage) con 356 casos, seguida de Maquinaria (Machinery) con 245 casos.
 
-> Las partes del cuerpo más afectadas son los dedos/pulgar (Finger/Thumb) con 39,122 casos y la espalda/zona lumbar con 30,825 casos.Respecto con la mortalidad son los multiples partes (Multiple Parts) y 
+> Las partes del cuerpo más afectadas son los dedos/pulgar (Finger/Thumb) con 39,122 casos y la espalda/zona lumbar con 30,825 casos.Respecto con la mortalidad son los multiples partes (Multiple Parts) con 603 muertes y Sistemas Corporales (Body Systems) con 177 muertes.
 
 > El Puesto de trabajo más vulnerable es el personal de mantenimiento y mecánica (Maintenance Man, Mechanic) con 41,404 accidentes y la mortalidad tambien concentra este indice con 129 Muertes.
 
 **5. ¿Cómo influye la experiencia del trabajador en la probabilidad de sufrir un accidente y fatalidad ?**
 
->
+> Los accidentes menores son de los novatos,es decri el volumen de accidentabilidad lo concentran ellos.Los trabajadores con Baja Experiencia (1 a 5 años) e Inexpertos (<1 año) acumulan el 45.7% de los casos (25.3% y 20.4% respectivamente).
+
+> Las muertes son de los expertos, se descubrimos que el 29% de las muertes ocurre en trabajadores de Alta Experiencia (>20 años), y un 22% en trabajadores de Media-Alta Experiencia (10 a 20 años).
+
 ---
 
 ## 📢 Recomendaciones
 
+> Reentrenamiento a Veteranos,diseñar campañas específicas de ventilación, control de techos y mitigación de polvo/gases.
 
+> Plan de choque de Mitigación en la mienría de Carbón Subterráneo,
 ---
 ## 📐 KPIs calculados
 
