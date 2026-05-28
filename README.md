@@ -157,7 +157,7 @@ MSHA Open Data (.txt)
 
 > Reentrenamiento a Veteranos,diseñar campañas específicas de ventilación, control de techos y mitigación de polvo/gases.
 
-> Plan de choque de Mitigación en la mienría de Carbón Subterráneo,
+> Plan de choque de Mitigación en la minería de Carbón Subterráneo,
 ---
 ## 📐 KPIs calculados
 
