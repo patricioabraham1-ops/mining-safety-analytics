@@ -31,9 +31,11 @@ mining-safety-analytics/
 ├── README.md
 │
 ├── data/
-│   ├──         #
-│   ├──         #
-│   └──         # 
+│   ├──  Accidents.txt                                # Datos de los Accidentes mineros de USA.
+│   ├──  Mines.txt                                    # Data de las Minas de USA.
+│   ├──  Number of employee hours (in millions).csv   # Data de trabajador por horas Trabajadas
+│   ├──  AIR_FIR.xlm                                  # Data de AIR y FIR
+│   └──  State USA.xlm                                # Data de los estados y Territorios de USA
 │
 ├── Iconos/
 │   ├── Accidentes.png
